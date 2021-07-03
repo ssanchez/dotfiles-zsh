@@ -33,52 +33,50 @@ brew 'svgo'
 brew 'gifsicle'
 
 # Development
-brew 'php'
-brew 'php@7.4'
-brew 'php@7.3'
-brew 'composer'
-brew 'imagemagick'
-brew 'libmemcached'
-brew 'meilisearch'
-brew 'memcached'
-brew 'mysql'
-brew 'nginx'
+# brew 'php'
+# brew 'php@7.4'
+# brew 'php@7.3'
+# brew 'composer'
+# brew 'imagemagick'
+# brew 'libmemcached'
+# brew 'meilisearch'
+# brew 'memcached'
+# brew 'mysql'
+# brew 'nginx'
 brew 'node'
-brew 'redis'
+# brew 'redis'
 brew 'yarn'
+brew 'starship'
 
 # Apps
-cask '1password'
-cask '1password-cli'
+# cask '1password'
+# cask '1password-cli'
 cask 'aerial'
+cask 'alfred'
 cask 'caffeine'
+cask 'coscreen'
+cask 'cyberduck'
 cask 'dbngin'
-cask 'discord'
+# cask 'discord'
 cask 'docker'
 cask 'figma'
 cask 'firefox'
+cask 'flycut'
 cask 'github'
-cask 'google-backup-and-sync'
+# cask 'google-backup-and-sync'
 cask 'google-chrome'
-cask 'gpg-suite'
+# cask 'gpg-suite'
 cask 'imageoptim'
 cask 'insomnia'
-cask 'pastebot'
-cask 'phpmon'
-cask 'phpstorm'
-cask 'ray'
-cask 'screenflow'
-cask 'signal'
+cask 'kap'
+# cask 'phpmon'
+# cask 'ray'
+cask 'rectangle'
+# cask 'signal'
 cask 'slack'
-cask 'sublime-text'
-cask 'tableplus'
-cask 'telegram-desktop'
 cask 'the-unarchiver'
-cask 'tinkerwell'
 cask 'transmission'
-cask 'transmit'
-cask 'tunnelbear'
-cask 'tuple'
+# cask 'tunnelbear'
 cask 'visual-studio-code'
 cask 'vlc'
 cask 'zoom'
@@ -95,13 +93,15 @@ cask 'font-source-code-pro-for-powerline'
 cask 'font-source-code-pro'
 cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
+cask 'font-fira-code-nerd-font'
 
 # Mac App Store
-mas 'Byword', id: 420212497
+# mas 'Byword', id: 420212497
 mas 'Giphy Capture', id: 668208984
-mas 'Keynote', id: 409183694
-mas 'Numbers', id: 409203825
-mas 'Spark', id: 1176895641
+# mas 'Keynote', id: 409183694
+mas 'FruitJuice', id: 671736912
+# mas 'Numbers', id: 409203825
+# mas 'Spark', id: 1176895641
 mas 'Speedtest', id: 1153157709
-mas 'Things', id: 904280696
-mas 'Tweetbot', id: 1384080005
+mas 'TweetDeck', id: 485812721
+mas 'WiFi Explorer', id: 494803304
