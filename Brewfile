@@ -23,6 +23,7 @@ brew 'stripe/stripe-cli/stripe'
 brew 'svn'
 brew 'trash' # Manage the Trash bin
 brew 'tree' # List directories in a tree structure
+brew 'wget'
 brew 'zlib' # Needed for Memcached
 
 # Spatie Medialibrary
@@ -53,6 +54,7 @@ brew 'starship'
 # cask '1password-cli'
 cask 'aerial'
 cask 'alfred'
+cask 'brave-browser'
 cask 'caffeine'
 cask 'coscreen'
 cask 'cyberduck'
@@ -70,7 +72,7 @@ cask 'imageoptim'
 cask 'insomnia'
 cask 'kap'
 # cask 'phpmon'
-cask 'pushplaylabs-sidekick'
+# cask 'pushplaylabs-sidekick'
 # cask 'ray'
 cask 'rectangle'
 # cask 'signal'
