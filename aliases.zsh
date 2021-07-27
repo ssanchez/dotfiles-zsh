@@ -29,6 +29,8 @@ alias watch="npm run watch"
 
 # Docker
 # alias docker-composer="docker-compose"
+alias dcu="docker-compose up"
+alias dcd="docker-compose down"
 
 # SQL Server
 # alias mssql="docker run -e ACCEPT_EULA=Y -e SA_PASSWORD=LaravelWow1986! -p 1433:1433 mcr.microsoft.com/mssql/server:2017-latest"
