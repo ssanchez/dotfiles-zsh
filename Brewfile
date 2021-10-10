@@ -99,12 +99,12 @@ cask 'font-source-serif-pro'
 cask 'font-fira-code-nerd-font'
 
 # Mac App Store
-# mas 'Byword', id: 420212497
-mas 'Giphy Capture', id: 668208984
-# mas 'Keynote', id: 409183694
-mas 'FruitJuice', id: 671736912
-# mas 'Numbers', id: 409203825
-# mas 'Spark', id: 1176895641
-mas 'Speedtest', id: 1153157709
-mas 'TweetDeck', id: 485812721
-mas 'WiFi Explorer', id: 494803304
+## mas 'Byword', id: 420212497
+# mas 'Giphy Capture', id: 668208984
+## mas 'Keynote', id: 409183694
+# mas 'FruitJuice', id: 671736912
+## mas 'Numbers', id: 409203825
+## mas 'Spark', id: 1176895641
+# mas 'Speedtest', id: 1153157709
+# mas 'TweetDeck', id: 485812721
+# mas 'WiFi Explorer', id: 494803304
