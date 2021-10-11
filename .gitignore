@@ -1,3 +1,5 @@
 # machine-specific stuff #
 ##########################
 .extra
+Brewfile.lock.json
+
