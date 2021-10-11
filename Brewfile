@@ -85,6 +85,7 @@ cask 'transmission'
 # cask 'tunnelbear'
 cask 'visual-studio-code'
 cask 'vlc'
+cask 'windscribe'
 cask 'zoom'
 
 # Quicklook
