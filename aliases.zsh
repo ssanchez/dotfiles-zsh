@@ -27,6 +27,10 @@ alias dv="cd $HOME/Dev"
 alias nfresh="rm -rf node_modules/ package-lock.json && npm install"
 alias watch="npm run watch"
 
+# Yarn
+alias y="yarn"
+alias yui="yarn upgrade-interactive"
+
 # Docker
 # alias docker-composer="docker-compose"
 alias dcu="docker-compose up"
